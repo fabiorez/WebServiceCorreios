@@ -1,0 +1,7 @@
+C:\Projetos Git\WebServiceCep\WebServiceCep\bin\Debug\WebServiceCep.exe.config
+C:\Projetos Git\WebServiceCep\WebServiceCep\bin\Debug\WebServiceCep.exe
+C:\Projetos Git\WebServiceCep\WebServiceCep\bin\Debug\WebServiceCep.pdb
+C:\Projetos Git\WebServiceCep\WebServiceCep\obj\Debug\WebServiceCep.csprojResolveAssemblyReference.cache
+C:\Projetos Git\WebServiceCep\WebServiceCep\obj\Debug\WebServiceCep.csproj.CoreCompileInputs.cache
+C:\Projetos Git\WebServiceCep\WebServiceCep\obj\Debug\WebServiceCep.exe
+C:\Projetos Git\WebServiceCep\WebServiceCep\obj\Debug\WebServiceCep.pdb
